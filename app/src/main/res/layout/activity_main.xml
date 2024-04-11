@@ -9,8 +9,8 @@
     tools:context=".MainActivity">
 
     <Button
-        android:layout_width="@dimen/w"
-        android:layout_height="@dimen/h"
+        android:layout_width="@dimen/btn_w"
+        android:layout_height="@dimen/btn_h"
         android:backgroundTint="@color/lime"
         android:text="@string/btn1"
         android:textSize="@dimen/textSizeMedium"
@@ -18,8 +18,8 @@
         android:layout_gravity="center"/>
 
     <Button
-        android:layout_width="@dimen/w"
-        android:layout_height="@dimen/h"
+        android:layout_width="@dimen/btn_w"
+        android:layout_height="@dimen/btn_h"
         android:backgroundTint="@color/lime"
         android:text="@string/btn2"
         android:textSize="@dimen/textSizeMedium"
@@ -27,8 +27,8 @@
         android:layout_gravity="left"/>
 
     <Button
-        android:layout_width="@dimen/w"
-        android:layout_height="@dimen/h"
+        android:layout_width="@dimen/btn_w"
+        android:layout_height="@dimen/btn_h"
         android:backgroundTint="@color/lime"
         android:text="@string/btn3"
         android:textSize="@dimen/textSizeMedium"
